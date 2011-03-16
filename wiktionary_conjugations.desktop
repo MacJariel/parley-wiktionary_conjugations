@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=parley
+Type=Service
+ServiceTypes=KPluginInfo
+
+Name=Wiktionary Conjugations
+Comment=This script fetches conjugations from http://en.wiktionary.org.
+
+Script=wiktionary_conjugations.py
+
+X-KDE-PluginInfo-Author=MacJariel
+X-KDE-PluginInfo-Email=macjariel@gmail.com
+X-KDE-PluginInfo-Name=wiktionary_conjugations
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://edu.kde.org/parley
+X-KDE-PluginInfo-Category=translation
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
